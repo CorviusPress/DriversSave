@@ -1,7 +1,7 @@
 
 <div align="center">
   
-## FreeBackup and Restore Drivers: Compatible with OEM devices Desktop and Notebook : Lenovo, Acer, HP, Asus, Dell and more ..
+## FreeBackup and Restore Drivers: Compatible with OEM devices Desktops and Notebooks or Tablets : Lenovo, Acer, HP, Asus, Dell and more ..
 
 </div>
 
