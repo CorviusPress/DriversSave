@@ -15,12 +15,6 @@ The best moment to create a backup is right after the first boot of the OEM devi
 
 Of course, the backup can be created on any device running Windows. I emphasize OEM mainly because finding the correct drivers is not always easy, and this tool lets you create a driver backup that can save you a lot of trouble.
 
-<div align="center">
-  
-![Free Driver and Recovery for Windows](https://raw.githubusercontent.com/CorviusPress/DriversSave/main/Free%20Backup%20And%20Restore%20Drivers.png)
-
-</div>
-
 <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/main/Free%20Backup%20And%20Restore%20Drivers.png" alt=""></p>
 
 <h1 align="center">FreeDriver Backup & Revovery Scripts (MAS)</h1>
@@ -38,11 +32,11 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 2. Copy and paste the code below and press **Enter.**  
    - For **Windows 8.1, 10 and 11**:
      ```
-     irm https://get.activated.win | iex
+     https://
      ```
-	 If the above is blocked (by ISP/DNS), try this (needs updated Windows 10 or 11):  
+	(needs updated Windows 10 or 11):  
 	 ```
-	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+	https:/
 	 ```
 	- **Script not launching? Use the below-listed Method 2.**
 
@@ -56,10 +50,10 @@ type `PowerShell`, and open it.
 
 
 1.   Download the script:
-      *   [**MAS_AIO.cmd**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true) (Direct script)
-      *   [**MAS_AIO.zip**](https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip) (If the direct script is blocked by your browser)
-2.   Run the `MAS_AIO.cmd` file.
-3.   In the menu that appears, type the number corresponding to one of the **Green** options.
+      *   [**FreeDriver Recovery .exe**]([https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.exe)) (Direct script)
+      *   [**FreeDriver Recovry Powershell .ps1**]([https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.ps1)) 
+2.   Run the `FreeBackup` file.
+3.   In the menu that appears ***.
 
 ---
 ----
@@ -73,7 +67,7 @@ type `PowerShell`, and open it.
 <
 
 > [!TIP]
-> - Some ISPs/DNS providers block access to our domains. You can bypass this by enabling [DNS-over-HTTPS (DoH)](https://developers.cloudflare.com/1.1.1.1/encryption/dns-over-https/encrypted-dns-browsers/) in your browser.
+> - Some ***
 >
 >  ```
 >	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
