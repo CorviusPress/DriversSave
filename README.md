@@ -29,22 +29,10 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 
 ### Method 1 : Using executable .exe (Windows 10 and later) ❤️
 1. Download EXECUTABLE file .exe
-   *   [**FreeDriver Recovery .exe**](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.exe)) 
+   *   [**FreeDriver Recovery .exe**](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.exe) 
 2.  Click the **BackupAndRestoreDriver.exe** and open it.
-3.  First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the "SAVE" folder on the C:\ drive. </br> <p align="center"><img src="ODKAZ" alt="select folder"></p>
-4.  
-5.  Select "Start Backup" or restore if you already have a backup created.
-   - For **Windows 8.1, 10 and 11**:
-     ```
-     https://
-     ```
-	(needs updated Windows 10 or 11):  
-	 ```
-	https:/
-	 ```
-	- **Script not launching? Use the below-listed Method 2.**
-
-3. In the menu that appears, type the number corresponding to one of the **Green** options.
+3.  First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the "SAVE" folder on the C:\ drive. </br> <p align="center"><img src="https://raw.githubusercontent.com/CorviusPress/DriversSave/refs/heads/main/Select%20Folder.png" alt="select folder"></p>
+4.   Depending on whether you already have a backup created, select either Run or Restore Driver Backup.
 
 ---
 
@@ -52,11 +40,9 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 
 type `PowerShell`, and open it.
 
-
 1.   Download the POWERSHELL script:
    *   [**FreeDriver Recovry Powershell .ps1**](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.ps1) 
 2.   >
-3.   >
 
 > [!TIP]
 > - How to alow POWERSHELL script :
@@ -69,9 +55,6 @@ type `PowerShell`, and open it.
 
 > [!NOTE]
 > - *
-> - *
-> - *
-
 ---
 
 <div align="center">
