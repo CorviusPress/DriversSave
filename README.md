@@ -1,4 +1,6 @@
+<h3 align="center">!! The page is under construction and is not complete!! </h3>
 
+---
 
 <h1 align="center">FreeDriver BackUp & Revovery</h1>
 
@@ -26,10 +28,12 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 ## How to Using FreeDriver Revovery for Backup :
 
 ### Method 1 : Using executable .exe (Windows 10 and later) ❤️
-
-1. Click the **BackupAndRestoreDriver.exe** and open it.
-
-2. Copy and paste the code below and press **Enter.**  
+1. Download EXECUTABLE file .exe
+   *   [**FreeDriver Recovery .exe**](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.exe)) 
+2.  Click the **BackupAndRestoreDriver.exe** and open it.
+3.  First, select the folder where you want to save the backup, or the folder from which you want to restore the backup, in my case I have the folder in the "SAVE" folder on the C:\ drive. </br> <p align="center"><img src="ODKAZ" alt="select folder"></p>
+4.  
+5.  Select "Start Backup" or restore if you already have a backup created.
    - For **Windows 8.1, 10 and 11**:
      ```
      https://
@@ -49,36 +53,24 @@ Of course, the backup can be created on any device running Windows. I emphasize 
 type `PowerShell`, and open it.
 
 
-1.   Download the script:
-      *   [**FreeDriver Recovery .exe**]([https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?path=/MAS/All-In-One-Version-KL/MAS_AIO.cmd&download=true](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.exe)) (Direct script)
-      *   [**FreeDriver Recovry Powershell .ps1**]([https://dev.azure.com/massgrave/Microsoft-Activation-Scripts/_apis/git/repositories/Microsoft-Activation-Scripts/items?$format=zip](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.ps1)) 
-2.   Run the `FreeBackup` file.
-3.   In the menu that appears ***.
-
----
-----
------
----
-
->
->
----
-<
-<
+1.   Download the POWERSHELL script:
+   *   [**FreeDriver Recovry Powershell .ps1**](https://github.com/CorviusPress/DriversSave/releases/download/FreeBackupAndDriverRecovery/BackupAndRestoreDriver.V1.0.english.ps1) 
+2.   >
+3.   >
 
 > [!TIP]
-> - Some ***
->
+> - How to alow POWERSHELL script :
+> - Open PowerShell from start menu how to Admin
+> - Copy ans paste :
 >  ```
->	 iex (curl.exe -s --doh-url https://1.1.1.1/dns-query https://get.activated.win | Out-String)
+>	 Set-ExecutionPolicy Unrestricted
 >	 ```
-> - **Having trouble**? Visit our [troubleshooting page](https://massgrave.dev/troubleshoot) or raise an issue on [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues).
+> - **Having trouble**? Visit our [ODKAZ](https://) or raise an issue on [GitHub](https://).
 
 > [!NOTE]
->
-> - The `irm` command in PowerShell downloads a script from a specified URL, and the `iex` command executes it.
-> - Always double-check the URL before executing the command and verify the source is trustworthy when manually downloading files.
-> - Be cautious of third parties spreading malware disguised as MAS by altering the URL in the PowerShell command.
+> - *
+> - *
+> - *
 
 ---
 
